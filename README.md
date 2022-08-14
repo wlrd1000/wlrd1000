@@ -5,7 +5,7 @@ I'm Wlrd
 I live in **Brazil** and I am constantly updating myself on new technologies.
 
 ## ⭐ Skill's
-  - Lua
+  - Lua/LuaU
   - Python
   - Reverse Engineering
   - Node.js  
