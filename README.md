@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2>Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h2>
 
-<!--
-**wlrd1337/wlrd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Revolution
 
-Here are some ideas to get you started:
+I live in **Brazil** and I am constantly updating myself on new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Skill's
+  - Lua
+  - Python
+  - Reverse Engineering
+  - Node.js  
+
+## 📈 Github Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=irevolutiondev&layout=compact&theme=radical"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=irevolutiondev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
