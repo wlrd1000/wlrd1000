@@ -4,7 +4,8 @@ I'm Wlrd
 
 I live in **Brazil** and I am constantly updating myself on new technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wlrd1337&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
+[![wlrd1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrd1337&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ⭐ Skill's
   - Lua/LuaU
