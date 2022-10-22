@@ -1,32 +1,17 @@
-<h2>Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h2>
+<h1 align="center">wlrd</h1>
 
-I'm Wlrd
-
-I live in **Brazil** and I am constantly updating myself on new technologies.
-
-[![wlrd1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlrd1337&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## ⭐ Skill's
-  - Lua/LuaU
-  - Python
-  - Reverse Engineering
-  - Node.js  
-
-## 📈 Github Stats
+---
+<p align="center">
+  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=wlrd1337&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
+  <img alt="followers" src="https://img.shields.io/github/followers/wlrd1337?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
+</p>
+<h3 align="center">Languages:</h3>
+<p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
+</p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=irevolutiondev&layout=compact&theme=radical"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=irevolutiondev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/?username=wlrd1337&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
