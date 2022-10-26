@@ -1,7 +1,6 @@
 <h1 align="center">wlrd</h1>
 
 <p align="center">
-  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=wlrd1337&countColorcountColor&countColor=%230095FF" alt="Profile Views"/>
   <img alt="followers" src="https://img.shields.io/github/followers/wlrd1337?color=f429ff&style=for-the-badge&logo=github&label=Follow"/>
 </p>
 <h3 align="center">Languages:</h3>
